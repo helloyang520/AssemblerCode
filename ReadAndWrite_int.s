@@ -1,5 +1,5 @@
 //!debug
-//GitHub:
+//GitHub:https://github.com/helloyang520/AssemblerCode
 //文件读写: ./ReadAndWrite ReadFileName WriteFileName (若WriteFileName缺省则输出到终端)
 .section .data
     ErrorMsg:
