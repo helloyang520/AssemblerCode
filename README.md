@@ -38,5 +38,5 @@ AT&T 汇编(at&t assembler)<br>
     //编译SourceCodeName，指定编译后可执行文件名为DestinationCodeName(DestinationCodeName可缺省),参数"-cstd"连接c库<br>
 <br>
 //QQ群:668798306<br>
-![image](https://github.com/helloyang520/AssemblerCode/blob/master/QQID.png)<br>
+![image](https://github.com/helloyang520/AssemblerCode/blob/master/QQID.png)
 <br>
